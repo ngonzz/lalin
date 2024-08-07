@@ -13,7 +13,7 @@
 # Referencias
 
 - [Powered by W3Schools](https://www.w3schools.com)
-- [Página Web](https://nicolasgon2006.github.io/lalin)
+- [Página Web](https://ngonzz.github.io/lalin)
 
 ---------------------------------------------------------------------------
 
